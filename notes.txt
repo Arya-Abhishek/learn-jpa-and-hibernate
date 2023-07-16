@@ -1,0 +1,4 @@
+SELECT * FROM course;
+
+INSERT INTO course(id, name, author)
+values(1, 'spring boot', 'Ranga sir');
